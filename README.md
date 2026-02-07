@@ -1,2 +1,13 @@
-# QA-Performance-Chart-Maker
-A Python data visualization tool designed to transform raw Quality Assurance scores into actionable insights. This tool generates a horizontal bar chart highlighting key performance indicators (KPIs) and focus areas for weekly reviews.
+# 📊 QA Performance Chart Maker
+
+Una aplicación web interactiva desarrollada en Python para visualizar métricas de aseguramiento de calidad (QA).
+
+## 🚀 Funcionalidades
+* **Edición en tiempo real:** Modifica los nombres de las categorías y los puntajes directamente en la tabla.
+* **Visualización Automática:** Genera gráficos de barras horizontales instantáneamente.
+* **Análisis de KPIs:** Resalta automáticamente áreas de oportunidad (Rojo) y puntaje general (Azul Oscuro).
+
+## 🛠️ Tecnologías
+* Python
+* Streamlit
+* Pandas & Matplotlib
